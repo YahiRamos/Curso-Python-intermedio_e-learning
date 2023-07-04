@@ -1,0 +1,4 @@
+
+Hola mundo,
+estoy escribiendo en un archivo de texto con python
+Este es un mensaje que introduje con append
